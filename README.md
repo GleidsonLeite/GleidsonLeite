@@ -1,6 +1,6 @@
 ### Fala dev, Eu sou o Gleidson
 
-## Sou um estudante de engenharia elétrica, desenvolvedor e apaixonado por tecnologia!
+## Engenheiro eletricista, desenvolvedor e apaixonado por tecnologia!
 
 - 🦾 Integrante do Projeto APCASE - Aquisição, processamento, classificação e análise do sinal mioelétrico;
 
